@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: "React Portfolio",
       tech: "React JS",
-      link: "https://your-portfolio-link.com"
+     link: "https://github.com/gvmsamy/muniyasamy-portfolio"
     }
   ];
 
@@ -41,5 +41,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
