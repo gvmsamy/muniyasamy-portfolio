@@ -63,3 +63,24 @@
 .project-card:hover {
   transform: translateY(-8px);
 }
+
+.project-links {
+  margin-top: 15px;
+}
+
+.project-links a {
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 16px;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background 0.3s;
+}
+
+.project-links a:hover {
+  background: #1d4ed8;
+}
+
