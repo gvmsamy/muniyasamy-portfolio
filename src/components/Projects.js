@@ -16,7 +16,7 @@ const Projects = () => {
       code: "https://github.com/gvmsamy/react-investment-calculator"
     },
     {
-      title: "React Portfolio",
+      title: "My Portfolio",
       tech: "React JS",
       demo: "https://muniyasamy-portfolio.vercel.app/",
       code: "https://github.com/gvmsamy/muniyasamy-portfolio"
@@ -50,3 +50,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
