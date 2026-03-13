@@ -9,7 +9,9 @@ const Skills = () => {
     "HTML",
     "CSS",
     "Redux",
+    "Vuex",
     "Github",
+    "Bitbucket",
     "GraphQL"
   ];
 
